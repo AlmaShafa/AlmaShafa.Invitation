@@ -1,0 +1,50 @@
+[
+  {
+    "ikon": "https://uxwing.com/wp-content/themes/uxwing/download/communication-chat-call/address-book-color-icon.png",
+    "ukuranIkon": "70px",
+    "judul": "RSVP",
+    "deskripsi": "Konfirmasi kehadiran tamu secara otomatis dan manajemen data tamu yang rapi."
+  },
+  {
+    "ikon": "https://uxwing.com/wp-content/themes/uxwing/download/location-travel-map/home-map-location-icon.png",
+    "ukuranIkon": "70px",
+    "judul": "Navigasi Lokasi",
+    "deskripsi": "Integrasi langsung dengan Google Maps agar tamu mudah menemukan lokasi acara."
+  },
+  {
+    "ikon": "https://uxwing.com/wp-content/themes/uxwing/download/festival-culture-religion/gift-box-icon.png",
+    "ukuranIkon": "70px",
+    "judul": "Amplop Digital",
+    "deskripsi": "Fitur penerimaan kado secara cashless (QRIS, Transfer Bank, E-Wallet) dengan aman."
+  },
+  {
+    "ikon": "https://uxwing.com/wp-content/themes/uxwing/download/video-photography-multimedia/movie-image-icon.png",
+    "ukuranIkon": "70px",
+    "judul": "Galeri",
+    "deskripsi": "Bagikan momen indah dokumentasi pre-wedding dan cerita perjalanan cinta Anda kepada tamu."
+  },
+  {
+    "ikon": "https://uxwing.com/wp-content/themes/uxwing/download/relationship-love/engagement-ring-icon.png",
+    "ukuranIkon": "70px",
+    "judul": "Love Story",
+    "deskripsi": "Bagikan momen indah pre-wedding dan cerita perjalanan cinta Anda kepada tamu."
+  },
+  {
+    "ikon": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/apple-music-icon.png",
+    "ukuranIkon": "70px",
+    "judul": "Musik Latar",
+    "deskripsi": "Tambahkan lagu romantis pilihan Anda untuk membangun suasana yang lebih emosional bagi tamu."
+  },
+  {
+    "ikon": "https://uxwing.com/wp-content/themes/uxwing/download/video-photography-multimedia/live-icon.png",
+    "ukuranIkon": "80px",
+    "judul": "Live Streaming",
+    "deskripsi": "Hadirkan kerabat terkasih untuk turut menjadi saksi momen sakral ikatan suci Anda secara virtual."
+  },
+  {
+    "ikon": "https://uxwing.com/wp-content/themes/uxwing/download/time-and-date/26-times-color-icon.png",
+    "ukuranIkon": "90px",
+    "judul": "Countdown",
+    "deskripsi": "Menghitung hari menuju momen ikrar suci. Fitur pengingat waktu agar Anda tidak melewatkan detik-detik bersejarah kami."
+  }
+]

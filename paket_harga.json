@@ -1,0 +1,45 @@
+[
+  {
+    "paket": "Paket Basic",
+    "harga": "Rp 69.000",
+    "durasi": "/ 4 Bulan",
+    "terlaris": false,
+    "fitur": [
+      "Masa Aktif 4 Bulan",
+      "Fitur RSVP & Buku Tamu",
+      "Navigasi Google Maps",
+      "Backsound Musik",
+      "Countdown"
+    ],
+    "linkTeks": "Pilih Paket Basic"
+  },
+  {
+    "paket": "Paket Premium",
+    "harga": "Rp 99.000",
+    "durasi": "/ 6 Bulan",
+    "terlaris": true,
+    "fitur": [
+      "Masa Aktif 6 Bulan",
+      "Semua Fitur Basic",
+      "Galeri Foto & Video",
+      "Love Story",
+      "Amplop Digital (Cashless)",
+      "Custom Nama Tamu Unlimited"
+    ],
+    "linkTeks": "Pilih Paket Premium"
+  },
+  {
+    "paket": "Paket Eksklusif",
+    "harga": "Rp 159.000",
+    "durasi": "/ 6 Bulan",
+    "terlaris": false,
+    "fitur": [
+      "Masa Aktif 6 Bulan",
+      "Semua Fitur Basic",
+      "Semua Fitur premium",
+      "link live streaming",
+      "video pre-wedding"
+    ],
+    "linkTeks": "Pilih Paket Eksklusif"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "Basic - 01",
+    "nama": "Basic - 01",
+    "gambar": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&q=80&w=600",
+    "hargaAsli": "Rp 198.000",
+    "diskon": "50%",
+    "hargaDiskon": "Rp 99.000",
+    "populer": true,
+    "linkPreview": "https://almashafa.github.io/TemaBasic-01/?to=Customer+Terbaik",
+    "linkPesan": "#reservasi"
+  },
+  {
+    "id": "Premium - 01",
+    "nama": "Premium - 01",
+    "gambar": "https://images.unsplash.com/photo-1606800052052-a08af7148866?auto=format&fit=crop&q=80&w=600",
+    "hargaAsli": "Rp 99.000",
+    "diskon": "30%",
+    "hargaDiskon": "Rp 69.000",
+    "populer": true,
+    "linkPreview": "https://almashafa.github.io/TemaPremium-01/?to=Customer+Terbaik",
+    "linkPesan": "#reservasi"
+  }
+]
